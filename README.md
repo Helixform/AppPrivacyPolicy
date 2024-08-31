@@ -1,6 +1,6 @@
 # Privacy Policy
 
-This **SERVICE** is provided by IcyStudio at no cost and is intended for use as is.
+This **SERVICE** is provided by Helixform at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
@@ -10,7 +10,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 ## Information Collection and Use
 
-While using our Free Service, we never ask you to provide us with certain personally identifiable information. 
+While using our Free Service, we never ask you to provide us with certain personally identifiable information.
 
 The app does not use any third party services that may collect information used to identify you.
 
@@ -18,7 +18,7 @@ The app does not use any third party services that may collect information used 
 
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
 
-This Service does not use these *cookies* explicitly. However, the app may use third party code and libraries that use *cookies* to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+This Service does not use these _cookies_ explicitly. However, the app may use third party code and libraries that use _cookies_ to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
 
 ## Security
 
